@@ -1,0 +1,9 @@
+[submodule ".terraform/modules/eks.kms"]
+	path = .terraform/modules/eks.kms
+	url = https://github.com/FernandoAraujoMarques/eks.git
+[submodule ".terraform/modules/eks"]
+	path = .terraform/modules/eks
+	url = https://github.com/FernandoAraujoMarques/eks.git
+[submodule ".terraform/modules/vpc"]
+	path = .terraform/modules/vpc
+	url = https://github.com/FernandoAraujoMarques/eks.git
